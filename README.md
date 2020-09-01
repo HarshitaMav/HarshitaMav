@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **HarshitaMav/HarshitaMav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 Reach me via email : harsita.mav@somaiya.edu
 - 👀 check out my [organization](https://github.com/BoomerScholars) to get more info.
 - ⚡ Fun fact: Just nature things->>"Art will never be able to exist without nature."
--->
