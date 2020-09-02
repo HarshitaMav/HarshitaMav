@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Hello, I am Harshita Mav👋 I'm Data Science enthusiat from India. Always ready to learn new things. Currently, increasing my knowledge in feild of Data Science and building my own projects. I'm also interested in space related research 🚀 🛰️. Apart from this my interest area also include drawing and sketching🎨🖌️
+Hello, I am Harshita Mav👋 I'm Data Science enthusiat from India. Always ready to learn new things. Currently, increasing my knowledge in feild of Data Science and building my own projects. I'm also interested in space related research 🚀 🛰️. Apart from this my interest areas also includes drawing and sketching🎨🖌️
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 <!-- "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" -->
