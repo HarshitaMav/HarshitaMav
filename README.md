@@ -12,8 +12,7 @@
 
 Hello, I am Harshita Mav👋 I'm Data Science enthusiat from India. Always ready to learn new things. Currently, increasing my knowledge in feild of Data Science and building my own projects. I'm also interested in space related research 🚀 🛰️. Apart from this my interest areas also includes drawing and sketching🎨🖌️
 
-<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-width="100%" data-aspect-ratio="1.1132075471698113"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a> from <a href="https://tenor.com/search/newgameahagonumiko-gifs">Newgameahagonumiko GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>-->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 <!-- "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" -->
 
 - 🔭 I’m currently working on identifying my strong and weak points
