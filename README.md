@@ -15,6 +15,9 @@ Hello, I am Harshita Mav👋 I'm Data Science enthusiat from India. Always ready
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/d737faef15d4e979a385cdb1e540c8ef/tenor.gif?itemid=13247664"/>
 <!-- "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" -->
 
+<br>
+<br>
+
 - 🔭 I’m currently working on identifying my strong and weak points
 - 🌱 I’m currently pursuing B.E. in Information Technology 
 - 🤔 Interested in Data Science and Astronomy 
