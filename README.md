@@ -22,7 +22,7 @@ Hello, I am Harshita Mav👋 I'm Data Science enthusiat from India. Always ready
 - 🌱 I’m currently pursuing B.E. in Information Technology 
 - 🤔 Interested in Data Science and Astronomy 
 - 💬 Ask me anything...happy to answer your questions
-- 📫 Reach me via email : harsita.mav@somaiya.edu
+- 📫 Reach me via email : harshitamav@gmail.com
 - 👀 check out my [organization](https://github.com/BoomerScholars) to get more info.
 - ⚡ Fun fact: Just nature things->>"Art will never be able to exist without nature."
 
