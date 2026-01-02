@@ -21,10 +21,9 @@
 <td width="65%" valign="top">
 
 Hello, I’m **Harshita Mav** 👋  
+I’m a **Data Science, AI/ML, and Software Engineering enthusiast** focused on building practical systems — from data pipelines and ML models to clean APIs and scalable services.
 
-I’m a **Data Science & AI/ML enthusiast** who enjoys building projects, learning continuously, and understanding how intelligent systems behave in real-world settings.
-
-I like working at the intersection of **data, machine learning, and system design**, while also keeping space for creativity and curiosity.
+I enjoy working at the intersection of **data, machine learning, backend engineering, and system design**, while also keeping space for creativity and curiosity.
 
 </td>
 <td width="35%" align="right">
@@ -35,31 +34,31 @@ I like working at the intersection of **data, machine learning, and system desig
 </tr>
 </table>
 
+---
+
+## 🎓 Education
+- 🎓 **M.S. in Computer Science — Syracuse University** *(Aug 2025 – May 2027)*
+- 🎓 **B.Tech in Information Technology**
+
+---
+
+## 🚀 What I’m Doing Now
+- 🔭 Building projects and strengthening fundamentals in **SDE + ML**
+- 🤖 Exploring **LLMs, RAG pipelines, and AI agents**
+- 🧠 Improving **DSA + System Design** for software roles
+- 📊 Working on data-driven applications with **clean APIs + robust evaluation**
+- 🛰️ Staying curious about **space & astronomy-inspired research**
 
 ---
 
 ## 🌟 Interests & Focus Areas
-
-- 🤖 **Machine Learning & AI Systems** — models that work beyond clean datasets  
-- 🧠 **NLP, LLMs & Generative AI** — intent detection, RAG pipelines, evaluation  
-- 💻 **Software Development (SDE)** — writing clean, maintainable, scalable code  
-- ⚙️ **Backend Engineering** — APIs, services, data flow, performance  
-- 📊 **Data Science & Analytics** — insights from messy, real-world data  
-- 🔐 **Trust, Security & Robustness** — deepfakes, fraud detection, biometrics  
-- 🧩 **System Design Fundamentals** — modular design, trade-offs, scalability  
-- 🚀 **Space & Astronomy** — curiosity-driven exploration  
-- 🎨 **Art & Sketching** — improving intuition and problem-solving  
-
----
-
-## 🔍 A Few Things About Me
-- 🔭 Currently strengthening both **ML and SDE fundamentals**  
-- 🌱 **B.Tech graduate in Information Technology**  
-- 🤔 Interested in **AI, Data Science, Backend, and System Design**  
-- 💬 Ask me anything — happy to answer  
-- 📫 Reach me at **harshitamav@gmail.com**  
-
-> ⚡ Fun fact: *Art will never be able to exist without nature.*
+- 🤖 **Machine Learning & AI Systems** — robust models beyond clean datasets  
+- 🧠 **NLP, LLMs & Generative AI** — intent detection, RAG, evaluation  
+- 💻 **Software Development (SDE)** — scalable code, performance, maintainability  
+- ⚙️ **Backend Engineering** — APIs, services, databases, data flow  
+- 🔐 **Trust & Security** — deepfakes, fraud analytics, biometrics  
+- 🧩 **System Design** — trade-offs, reliability, modular architecture  
+- 🎨 **Art & Sketching** — creativity that improves problem-solving  
 
 ---
 
@@ -89,6 +88,18 @@ I like working at the intersection of **data, machine learning, and system desig
 
 ---
 
+## 📊 Data Science & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDA-4682B4"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-8B4513"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-2C75E8?logo=tableau&logoColor=white"/>
+</p>
+
+---
+
 ## 💻 Software Engineering & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,linux,docker,git" />
@@ -101,50 +112,20 @@ I like working at the intersection of **data, machine learning, and system desig
 
 ---
 
-## 📊 Data Science & Visualization
-<p align="left">
-  <img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
-  <img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
-  <img src="https://img.shields.io/badge/EDA-4682B4"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-8B4513"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-2C75E8?logo=tableau&logoColor=white"/>
-</p>
-
----
-
-## ⚙️ Engineering Practices & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git%20Workflows-181717"/>
-  <img src="https://img.shields.io/badge/Debugging-556B2F"/>
-  <img src="https://img.shields.io/badge/Code%20Reviews-708090"/>
-  <img src="https://img.shields.io/badge/Testing%20(Basic)-2E8B57"/>
-  <img src="https://img.shields.io/badge/Linux%20CLI-000000"/>
-</p>
-
----
-
 ## 🔬 Things I’ve Built & Explored
 - 🧪 Deepfake detection & intent analysis  
 - 📊 Fraud analytics using machine-learning models  
 - 🤖 AI-powered automation & ML pipelines  
-- 💻 Backend services and APIs for data-driven applications  
+- 💻 Backend services and APIs for data-driven apps  
 - 🔍 Research exposure in biometrics & applied ML  
-
----
-
-## 🚧 Currently Exploring
-- LLMs, RAG pipelines & AI agents  
-- Designing ML systems that **fail gracefully**  
-- Backend performance & clean API design  
-- Strengthening **DSA and system design fundamentals**  
 
 ---
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn → https://www.linkedin.com/in/harshita-mav-b5800917b/  
 - 📸 Instagram → https://www.instagram.com/harshitamav/  
-- 📧 Email → harshitamav@gmail.com
+- 📧 Email → harshitamav@gmail.com  
+
 ---
 
 ## 📈 GitHub 3D Contributions
@@ -155,5 +136,5 @@ I like working at the intersection of **data, machine learning, and system desig
 ---
 
 <p align="center">
-  <i>“Art will never exist without nature.”</i>
+  <i>“Art will never be able to exist without nature.”</i>
 </p>
