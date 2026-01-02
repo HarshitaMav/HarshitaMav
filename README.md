@@ -103,7 +103,8 @@ I like working at the intersection of **data, machine learning, and system desig
 
 ## 📊 Data Science & Visualization
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
+  <img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
   <img src="https://img.shields.io/badge/EDA-4682B4"/>
   <img src="https://img.shields.io/badge/Feature%20Engineering-8B4513"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
