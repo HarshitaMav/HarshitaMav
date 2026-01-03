@@ -130,7 +130,7 @@ I enjoy working at the intersection of **data, machine learning, backend enginee
 
 ## 📈 GitHub 3D Contributions
 <p align="center">
-  <img src="https://github.com/HarshitaMav/HarshitaMav/blob/main/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/HarshitaMav/HarshitaMav/f1678628c8876ff764a579d090fbf514ffb435a8/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
